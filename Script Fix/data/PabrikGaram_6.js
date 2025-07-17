@@ -1,0 +1,1 @@
+var json_PabrikGaram_6 = {"type":"FeatureCollection","name":"PabrikGaram_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Namaa":"Pabrik Garam Desa Kaibonpetangkuran"},"geometry":{"type":"Point","coordinates":[109.732198735000054,-7.803164042999981]}}]}

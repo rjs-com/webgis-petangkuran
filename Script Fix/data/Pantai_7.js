@@ -1,0 +1,1 @@
+var json_Pantai_7 = {"type":"FeatureCollection","name":"Pantai_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Pantai":"Pantai Kaibonpetangkuran"},"geometry":{"type":"Point","coordinates":[109.735245244000055,-7.808412492999935]}}]}

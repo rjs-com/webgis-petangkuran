@@ -1,0 +1,1 @@
+var json_Pemakaman_5 = {"type":"FeatureCollection","name":"Pemakaman_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Pemakaman Desa Kaibonpetangkuran"},"geometry":{"type":"Point","coordinates":[109.742633143000035,-7.790831090999973]}}]}

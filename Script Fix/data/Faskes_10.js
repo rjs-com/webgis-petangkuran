@@ -1,0 +1,1 @@
+var json_Faskes_10 = {"type":"FeatureCollection","name":"Faskes_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama_Obj":"Klinik Pratama Rawat Inap"},"geometry":{"type":"Point","coordinates":[109.740518171000076,-7.791648934999955]}}]}
